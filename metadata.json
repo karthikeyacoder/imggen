@@ -1,0 +1,6 @@
+
+{
+  "name": "kaalgen-img",
+  "description": "An application to generate unique images from textual descriptions using AI. Create stunning visuals by typing what you imagine, and let kaalgen-img bring it to life.",
+  "requestFramePermissions": []
+}
